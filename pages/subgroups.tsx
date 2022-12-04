@@ -91,8 +91,7 @@ function subgroups() {
                                 </h2>
                                 <p className="leading-relaxed text-base">
                                     Field of study that gives computers the
-                                    capability to learn without being explicitly
-                                    programmed.
+                                    capability to learn.
                                 </p>
                             </div>
                         </div>
@@ -116,8 +115,7 @@ function subgroups() {
                                 </h2>
                                 <p className="leading-relaxed text-base">
                                     Open source is source code that is made
-                                    freely available for possible modification
-                                    and redistribution.
+                                    freely available for possible modification.
                                 </p>
                             </div>
                         </div>

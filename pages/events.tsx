@@ -34,12 +34,7 @@ function events() {
                                         world problems in code.
                                     </p>
                                     <a className="inline-flex items-center">
-                                        <img
-                                            alt="blog"
-                                            src="https://dummyimage.com/103x103"
-                                            className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"
-                                        />
-                                        <span className="flex-grow flex flex-col pl-3">
+                                        <span className="flex-grow flex flex-col">
                                             <span className="title-font font-medium text-gray-900">
                                                 PECFEST
                                             </span>
@@ -72,12 +67,7 @@ function events() {
                                         IITB for finals.
                                     </p>
                                     <a className="inline-flex items-center">
-                                        <img
-                                            alt="blog"
-                                            src="https://dummyimage.com/102x102"
-                                            className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"
-                                        />
-                                        <span className="flex-grow flex flex-col pl-3">
+                                        <span className="flex-grow flex flex-col">
                                             <span className="title-font font-medium text-gray-900">
                                                 PECFEST
                                             </span>
@@ -109,12 +99,7 @@ function events() {
                                         and regular discussion on every tuesday.
                                     </p>
                                     <a className="inline-flex items-center">
-                                        <img
-                                            alt="blog"
-                                            src="https://dummyimage.com/101x101"
-                                            className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"
-                                        />
-                                        <span className="flex-grow flex flex-col pl-3">
+                                        <span className="flex-grow flex flex-col">
                                             <span className="title-font font-medium text-gray-900">
                                                 Weekly
                                             </span>
